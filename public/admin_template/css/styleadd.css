@@ -1,0 +1,16 @@
+.add button{
+	width:80px;
+	height: 30px;
+	margin: 10px;
+
+}
+.add i{
+	color: white;
+}
+.tag button{
+	width:80px;
+	height: 30px;
+}
+.tag i{
+	color: white;
+}
